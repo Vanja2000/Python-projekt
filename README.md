@@ -1,1 +1,2 @@
-# Samomori_pythonprojekt_LarainVanja
+# Python projekt 
+Lara in Vanja
