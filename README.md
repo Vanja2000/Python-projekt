@@ -1,2 +1,2 @@
 # Python projekt 
-Lara in Vanja
+Lara Zebić in Vanja Stanojević
